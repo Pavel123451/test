@@ -1,2 +1,2 @@
 
-Tue Aug 20 22:45:02 MSK 2024 v0.1.uncommitted
+Tue Aug 20 22:45:15 MSK 2024 v0.2
