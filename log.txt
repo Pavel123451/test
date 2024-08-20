@@ -1,2 +1,2 @@
 
-Tue Aug 20 22:25:38 MSK 2024 v0.0-SNAPSHOT
+Tue Aug 20 22:54:04 MSK 2024 v0.7-rc-SNAPSHOT.uncommitted
